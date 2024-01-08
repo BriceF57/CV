@@ -16,4 +16,4 @@
 
 <h2 align="center"><a href="https://o-journey.vercel.app/">O'Journey</a> - Group project</h2>
 
-![O'Journey](Screenshot.png)
+![O'Journey](images/Screenshot.png)
